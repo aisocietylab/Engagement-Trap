@@ -4,9 +4,9 @@ title: "Quantifying the Engagement Trap: Impact of Short-form Video Recommender 
 project:
   authors:
     - name: "Vedad Misirlic"
-      url: "mailto:vedad.misirlic@tugraz.at"
+      url: "https://scholar.google.com/citations?user=aPbffSMAAAAJ&hl=en"
     - name: "Gregor Mayr"
-      url: "mailto:gregor.mayr@tugraz.at"
+      url: "https://scholar.google.com/citations?user=hCuSkiMAAAAJ&hl=en&oi=ao"
     - name: "Elisabeth Lex"
       url: "https://elisabethlex.info/"
   institution: "Graz University of Technology"
