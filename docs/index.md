@@ -37,4 +37,8 @@ project:
     }
 ---
 
+<figure style="margin: 2rem auto 1rem;">
+  <img src="{{ '/assets/images/survey_results.png' | relative_url }}" alt="Diverging stacked bar chart of survey responses for questions Q1 to Q15. Each question compares No ADHD, ADHDsr, and ADHDm on a 1–7 Likert scale, shown as the percentage of responses." style="width: 100%; height: auto;">
+</figure>
+
 Vedad Misirlic and Gregor Mayr contributed equally to this research.
