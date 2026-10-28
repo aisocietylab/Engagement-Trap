@@ -3,7 +3,7 @@
 Project page for the ASSETS '26 paper.
 
 <p align="center">
-    🌐 <a href="https://aisocietylab.github.io/Engagement-Trap/" target="_blank">Website</a> | 📃 <a href="https://doi.org/10.1145/3797867.3828987" target="_blank">Paper</a>
+    🌐 <a href="https://aisocietylab.github.io/engagement-trap/" target="_blank">Website</a> | 📃 <a href="https://doi.org/10.1145/3797867.3828987" target="_blank">Paper</a>
 </p>
 
 > **Quantifying the Engagement Trap: Impact of Short-form Video Recommender Systems on Users with ADHD**<br>
